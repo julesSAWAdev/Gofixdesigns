@@ -1,0 +1,44 @@
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-password INPUT {
+  font-family: Arial;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-loginBtn {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-Text_2 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-Text_3 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 #s-password_1 INPUT {
+  font-family: Arial;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-72efe7fe-f7a3-4064-87c5-f8c3cff7ae58 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
